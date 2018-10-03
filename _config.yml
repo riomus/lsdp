@@ -4,3 +4,17 @@ description: Large scale data processing course page
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
