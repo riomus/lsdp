@@ -12,5 +12,5 @@ layout: default
 
 # Lectures
 ## [W0](/static/W0.pdf)
-## [W1](/static/W2.pdf)
-## [W2](/static/W3.pdf)
+## [W1](/static/W1.pdf)
+## [W2](/static/W2.pdf)
