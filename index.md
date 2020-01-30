@@ -12,6 +12,7 @@ layout: default
 ## [L5](https://github.com/Large-scale-data-processing/l5-2019-base)
 ## [L6+](https://github.com/Large-scale-data-processing/l6-2019-base)
 ## [Partial results](/static/results.pdf)
+## [Proposed grades](/static/grades.pdf)
 
 # Lectures
 ## [W0](/static/W0.pdf)
