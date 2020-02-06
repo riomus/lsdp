@@ -13,6 +13,7 @@ layout: default
 ## [L6+](https://github.com/Large-scale-data-processing/l6-2019-base)
 ## [Partial results](/static/results.pdf)
 ## [Proposed grades](/static/grades.pdf)
+## [Exam 0+1 results](/static/egzamin_1.pdf)
 
 # Lectures
 ## [W0](/static/W0.pdf)
