@@ -13,4 +13,5 @@ layout: default
 ## [W0 - Introduction](/static/W0.pdf)
 ## [W1 - Basic notation, definitions](/static/W1.pdf)
 ## [W2 - Programming languages](/static/W2.pdf)
+## [W3 - Platforms, tools](/static/W3.pdf)
 
