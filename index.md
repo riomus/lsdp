@@ -10,6 +10,7 @@ layout: default
 ## [L2 - Scraper implementation (Celery, InfluxDB, Grafana)](https://github.com/Large-scale-data-processing/l2-2019-base)
 ## [L3 - Text embedding and database ingest (MongoDB, Redash)](https://github.com/Large-scale-data-processing/l3-2019-base)
 ## [L4 - Spark](https://github.com/Large-scale-data-processing/l4-2019-base)
+## [L5 - K8s, Helm](https://github.com/Large-scale-data-processing/l5-2019-base)
 
 
 # Lectures
