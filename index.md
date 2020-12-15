@@ -18,4 +18,5 @@ layout: default
 ## [W1 - Basic notation, definitions](/static/W1.pdf)
 ## [W2 - Programming languages](/static/W2.pdf)
 ## [W3 - Platforms, tools](/static/W3.pdf)
+## [W4 - Spark](/static/W4.pdf)
 
