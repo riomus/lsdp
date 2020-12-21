@@ -19,4 +19,6 @@ layout: default
 ## [W2 - Programming languages](/static/W2.pdf)
 ## [W3 - Platforms, tools](/static/W3.pdf)
 ## [W4 - Spark](/static/W4.pdf)
+## [W5 - GBM](/static/W5.pdf)
+## [W6 - Large-scale ML](/static/W6.pdf)
 
