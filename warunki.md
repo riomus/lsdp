@@ -18,8 +18,9 @@ Prowadzący: Roman Bartusiak
             -  Wysłanie rozwiązania (GitHub classroom)
             -  Zaprezentowanie rozwiązania na zajęciach
             -  Termin wysłania jest określony dla każdej listy i jest to termin nieprzekraczalny
-            -  W przypadku  nieobecności  na  zajęciach  student  do  rozpoczęcia  zajęć,  na  których  oddawana  jest  dana lista zadań powinien wysłać jej oraz zaprezentować rozwiązanie na pierwszych zajęciach po nieobecności. W przeciwnym przypadku lista nie będzie sprawdzana
-            -  Za listę wysłaną po terminie lub niezaprezentowaną student otrzymuje 0 punktów
+            -  W przypadku  nieobecności  na  zajęciach  student  do  rozpoczęcia  zajęć,  na  których  oddawana  jest  dana lista zadań powinien wysłać ją za pomocą Github Classroom oraz zaprezentować rozwiązanie na pierwszych zajęciach po nieobecności. W przeciwnym przypadku lista nie będzie sprawdzana
+            -  Za listę wysłaną i zaprezentowaną po terminie do 2 tygodni student otrzymuje 50% punktów
+            -  Za listę wysłaną i zaprezentowaną po terminie ponad 2 tygodnie lub niezaprezentowaną student otrzymuje 0 punktów
         5.  Samodzielność wykonywania
 5.  Skala ocen
 
